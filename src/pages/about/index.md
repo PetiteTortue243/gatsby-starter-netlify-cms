@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: About our values h1
 ---
 ### Shade-grown coffee h1
 
