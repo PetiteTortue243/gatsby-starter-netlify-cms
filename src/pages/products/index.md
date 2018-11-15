@@ -97,5 +97,8 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: Lorem
+      plan: Corvette
+      price: '5'
 ---
 
